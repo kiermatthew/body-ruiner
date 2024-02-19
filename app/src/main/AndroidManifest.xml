@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.BodyRuiner">
+        <activity
+            android:name=".Profile.About"
+            android:exported="true" />
+        <activity
+            android:name=".Profile.ChangePassword"
+            android:exported="true" />
+        <activity
+            android:name=".Profile.Email"
+            android:exported="true" />
+        <activity
+            android:name=".Profile.Notification"
+            android:exported="true" />
+        <activity
+            android:name=".Profile.EditProfile"
+            android:exported="true" />
+        <activity
+            android:name=".Profile.Settings"
+            android:exported="true" />
+        <activity
+            android:name=".ExploreItems.NewSchool"
+            android:exported="true" />
+        <activity
+            android:name=".ExploreItems.NeoTraditional"
+            android:exported="true" />
+        <activity
+            android:name=".ExploreItems.Lettering"
+            android:exported="true" />
+        <activity
+            android:name=".ExploreItems.DarkArt"
+            android:exported="true" />
+        <activity
+            android:name=".ExploreItems.Geometric"
+            android:exported="true" />
+        <activity
+            android:name=".ExploreItems.Dotwork"
+            android:exported="true" />
+        <activity
+            android:name=".ExploreItems.Blackwork"
+            android:exported="true" />
+        <activity
+            android:name=".ExploreItems.Japanese"
+            android:exported="true" />
+        <activity
+            android:name=".ExploreItems.HandPoked"
+            android:exported="true" />
+        <activity
+            android:name=".ExploreItems.Fineline"
+            android:exported="true" />
+        <activity
+            android:name=".ExploreItems.Chicano"
+            android:exported="true" />
+        <activity
+            android:name=".ExploreItems.BlacknGray"
+            android:exported="true" />
+        <activity
+            android:name=".WelcomeScreen"
+            android:exported="true" />
+        <activity
+            android:name=".GettingStarted"
+            android:exported="true" />
+        <activity
+            android:name=".Home.HomeMenu"
+            android:exported="true" />
+        <activity
+            android:name=".Profile.ProfileMenu"
+            android:exported="true" />
+        <activity
+            android:name=".Explore.ExploreMenu"
+            android:exported="true" />
+        <activity
+            android:name=".SplashScreen"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>

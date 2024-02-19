@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    app:flow_horizontalAlign="center">
+
+    <ImageView
+        android:id="@+id/introImg"
+        android:layout_width="match_parent"
+        android:layout_height="300dp"
+        android:src="@drawable/login_illustration"
+        android:layout_marginTop="10dp"/>
+
+    <TextView
+        android:id="@+id/introTitle"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="28dp"
+        android:textStyle="bold"
+        android:textColor="@color/black"
+        android:text="Welcome to Body Ruiner"
+        android:textAlignment="center"/>
+    <TextView
+        android:id="@+id/introDescription"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginHorizontal="15dp"
+        android:textSize="16dp"
+        android:layout_marginTop="5dp"
+        android:textColor="@color/black"
+        android:text="Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,"
+        android:textAlignment="center"/>
+
+</LinearLayout>

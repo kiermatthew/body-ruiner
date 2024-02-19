@@ -1,0 +1,104 @@
+<resources>
+    <string name="app_name">Body Ruiner</string>
+
+    //Titles
+    <string name="title1">Welcome to Body Ruiner</string>
+    <string name="title2">Discover New Styles</string>
+    <string name="title3">Let\'s Start!</string>
+
+    //Descriptions
+    <string name="dscrptn1">Discover different artists together with their own unique masterpiece and pick unique tatoo/s that\'s best for you.
+        A mobile application that is best for tattoo lovers!</string>
+    <string name="dscrptn2">Explore different kinds of tattoo styles you\'ve never seen before!</string>
+    <string name="dscrptn3">Start ruining your body. Have fun!</string>
+
+    //Artist Names
+    //An
+
+    <string-array name="post_author_names">
+        <item>William Smith</item>
+        <item>Arthur Mendoza</item>
+        <item>Mark Villavicenzo</item>
+        <item>Brian Hernandez</item>
+        <item>Adrian James</item>
+        <item>Renz Delgado</item>
+        <item>Lauren Matias</item>
+        <item>Mark Antony</item>
+        <item>Matthew Brown</item>
+        <item>Josh Sara</item>
+        <item>Mister Cartoon</item>
+        <item>Marco Manzo</item>
+        <item>Brando Chiesa</item>
+
+    </string-array>
+
+    <string-array name="artist_username">
+        <item>Artist username1</item>
+        <item>Artist username2</item>
+        <item>Artist username3</item>
+        <item>Artist username1</item>
+        <item>Artist username2</item>
+        <item>Artist username3</item>
+        <item>Artist username1</item>
+        <item>Artist username2</item>
+        <item>Artist username3</item>
+    </string-array>
+
+    <string-array name="artist_bio">
+        <item>Artist bio Artist bio Artist bio1</item>
+        <item>Artist bio Artist bio Artist bio2</item>
+        <item>Artist bio Artist bio Artist bio3</item>
+        <item>Artist bio Artist bio Artist bio1</item>
+        <item>Artist bio Artist bio Artist bio2</item>
+        <item>Artist bio Artist bio Artist bio3</item>
+        <item>Artist bio Artist bio Artist bio1</item>
+        <item>Artist bio Artist bio Artist bio2</item>
+        <item>Artist bio Artist bio Artist bio3</item>
+    </string-array>
+
+    <string-array name="style_names">
+        <item>Black &amp; Gray</item>
+        <item>Chicano</item>
+        <item>Fineline</item>
+        <item>Hand-Poked</item>
+        <item>Japanese (Irezumi)</item>
+        <item>Blackwork</item>
+        <item>Dotwork</item>
+        <item>Geometric</item>
+        <item>Dark Art</item>
+        <item>Lettering</item>
+        <item>Neo Traditional</item>
+        <item>New School</item>
+        <!--        <item>Ornamental</item>-->
+        <!--        <item>Realism</item>-->
+        <!--        <item>Illustrative</item>-->
+        <!--        <item>Old School</item>-->
+        <!--        <item>Surrealism</item>-->
+        <!--        <item>Ignorant</item>-->
+    </string-array>
+
+    <string-array name="place_names">
+        <item>Batangas City</item>
+        <item>Lemery</item>
+        <item>San Luis</item>
+        <item>San Juan</item>
+        <item>Lipa</item>
+        <item>Taal</item>
+        <item>Agoncillo</item>
+        <item>San Nicolas</item>
+        <item>Alitagtag</item>
+        <item>Quezon City</item>
+    </string-array>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="account_name">Account Name</string>
+    <string name="edit_profile">Edit Profile</string>
+    <string name="notification">Notification</string>
+    <string name="settings">Settings</string>
+    <string name="help_and_support">Help and Support</string>
+    <string name="log_out">Log out</string>
+    <string name="about"><b>Body Ruiner</b> is a mobile application designed for tattoo lovers around the world!
+    From insipiration and custom designs to lifestyle and entertainment. Body Ruiner gives tattoo lovers the best
+    experience in finding new styles and designs that they will definitely love.</string>
+
+</resources>
